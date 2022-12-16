@@ -29,7 +29,7 @@ function getDatos() {
       resultado.innerHTML = "";
 
       for (let item of datos)
-        if (consulta == item.apto) {
+        if ((consulta == item.apto) &&(item.deuda <= 0) ) {
           resultado.innerHTML = `
         <p class="fw-bold">Apartamento: <span class="fw-normal">${
           item.apto
@@ -43,6 +43,25 @@ function getDatos() {
         <p class="fw-bold">Total Deuda: <span class="fw-normal">${formatter.format(
           item.total_deuda
         )}</span></p>
+        <p class="fw-bold text-success">Estas Habilitado para votar</p>
+           
+            `;
+        }
+        else if((consulta == item.apto) &&(item.deuda >= 0) ){
+            resultado.innerHTML = `
+        <p class="fw-bold">Apartamento: <span class="fw-normal">${
+          item.apto
+        }</span></p>
+        <p class="fw-bold">Deuda Mes: <span class="fw-normal">${formatter.format(
+          item.mes_anterior
+        )}</span></p>
+        <p class="fw-bold">Deuda Atrasada: <span class="fw-normal">${formatter.format(
+          item.deuda
+        )}</span></p>
+        <p class="fw-bold">Total Deuda: <span class="fw-normal">${formatter.format(
+          item.total_deuda
+        )}</span></p>
+        <p class="text-danger fw-bold"> No Estas Habilitado para votar</p>
            
             `;
         }
