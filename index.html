@@ -12,9 +12,11 @@
     />
     <title>Lista de Deudas - Condominio Novo Azapa</title>
   </head>
-  <body>
+  <body class="container">
+    <h1 class="text-center mt-5">Verificador de Deuda</h1>
+    <p>coloca el número de tu apartamento y pulsa sobre el boton azul</p>
     <div class="container mt-5 d-flex flex-column align-items-center justify-content-center p-4">
-        <input class="form-control" type="text" id="apto" onblur="upperCase()">
+        <input class="form-control" type="text" id="apto" onblur="upperCase()" placeholder="Escribe tu numero de apartamento">
     <button class="btn btn-primary mt-3" id="btn-consulta">Consultar deudas</button>
     </div>
     <div class="container">
