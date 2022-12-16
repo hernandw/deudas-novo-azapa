@@ -15,19 +15,46 @@
   <body class="container">
     <h1 class="text-center mt-5">Verificador de Deuda</h1>
     <p>coloca el número de tu apartamento y pulsa sobre el boton azul</p>
-    <div class="container mt-5 d-flex flex-column align-items-center justify-content-center p-4">
-        <input class="form-control" type="text" id="apto" onblur="upperCase()" placeholder="Escribe tu numero de apartamento">
-    <button class="btn btn-primary mt-3" id="btn-consulta">Consultar deudas</button>
+    <div
+      class="container mt-5 d-flex flex-column align-items-center justify-content-center p-4"
+    >
+      <input
+        class="form-control"
+        type="text"
+        id="apto"
+        onblur="upperCase()"
+        placeholder="Escribe tu numero de apartamento"
+      />
+      <button class="btn btn-primary mt-3" id="btn-consulta">
+        Consultar deudas
+      </button>
     </div>
     <div class="container">
-        <p id="res"></p>
-<hr>
-        <h2>Nota:</h2>
-        <p>Si escribes <span class="fw-bold">inmobiliaria</span> te saldrá la deuda la la inmobiliaria</p>
-        <p>Si escribes <span class="fw-bold">totales</span> te saldrá la deuda total del condominio</p>
-        <p>Estos datos son tomados de <span class="fw-bold">EDIFITO</span> hoy 16/12/2022 a las 14 hrs</p>
-        <p>Esta página no pertenece a la administración del condominio solo son datos referenciales tomados de un medio Oficial como edifito</p>
-        <p>Si existen diferencias con su pago <span class="text-danger fw-bold">consulte su cuenta en EDIFITO</span> y/o con el Administrador del condominio.</p>
+      <p id="res"></p>
+      <hr />
+      <h2>Nota:</h2>
+      <p>
+        Si escribes <span class="fw-bold">inmobiliaria</span> te saldrá la deuda
+        <details></details>
+        la inmobiliaria
+      </p>
+      <p>
+        Si escribes <span class="fw-bold">totales</span> te saldrá la deuda
+        total del condominio
+      </p>
+      <p>
+        Estos datos son tomados de <span class="fw-bold">EDIFITO</span> hoy
+        16/12/2022 a las 14 hrs
+      </p>
+      <p>
+        Esta página <span class="text-danger fw-bold">NO PERTENECE</span> a la administración del condominio solo son
+        datos referenciales tomados de un medio Oficial como edifito
+      </p>
+      <p>
+        Si existen diferencias con su pago
+        <span class="text-danger fw-bold">consulte su cuenta en EDIFITO</span>
+        y/o con el Administrador del condominio.
+      </p>
     </div>
 
     <script src="./assets/js/main.js"></script>
