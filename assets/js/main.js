@@ -62,6 +62,7 @@ function getDatos() {
           item.total_deuda
         )}</span></p>
         <p class="text-danger fw-bold"> No Estas Habilitado para votar</p>
+        
            
             `;
         }
