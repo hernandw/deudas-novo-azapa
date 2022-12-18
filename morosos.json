@@ -1,1586 +1,1588 @@
 [
+    null,
     {
      "apto": 113,
-     "mes_anterior": 86633,
-     "deuda": 95733,
+     "mes_anterior": 182366,
+     "deuda": 182366,
      "total_deuda": 182366
     },
     {
      "apto": 114,
      "mes_anterior": 73954,
      "deuda": 0,
-     "total_deuda": 73954
+     "total_deuda": 0
     },
     {
      "apto": 115,
-     "mes_anterior": 79603,
-     "deuda": 81753,
-     "total_deuda": 161356
+     "mes_anterior": 161356,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 121,
-     "mes_anterior": 80703,
-     "deuda": 156272,
+     "mes_anterior": 236975,
+     "deuda": 236975,
      "total_deuda": 236975
     },
     {
      "apto": 122,
      "mes_anterior": 102672,
      "deuda": 0,
-     "total_deuda": 102672
+     "total_deuda": 0
     },
     {
      "apto": 123,
      "mes_anterior": 95426,
      "deuda": 0,
-     "total_deuda": 95426
+     "total_deuda": 0
     },
     {
      "apto": 124,
      "mes_anterior": 89763,
      "deuda": 0,
-     "total_deuda": 89763
+     "total_deuda": 0
     },
     {
      "apto": 125,
      "mes_anterior": 78706,
-     "deuda": 0,
+     "deuda": 78706,
      "total_deuda": 78706
     },
     {
      "apto": 126,
      "mes_anterior": 77309,
      "deuda": 0,
-     "total_deuda": 77309
+     "total_deuda": 0
     },
     {
      "apto": 127,
      "mes_anterior": 60859,
      "deuda": 0,
-     "total_deuda": 60859
+     "total_deuda": 0
     },
     {
      "apto": 131,
-     "mes_anterior": 115117,
-     "deuda": 117905,
+     "mes_anterior": 233022,
+     "deuda": 233022,
      "total_deuda": 233022
     },
     {
      "apto": 132,
      "mes_anterior": 100654,
      "deuda": 0,
-     "total_deuda": 100654
+     "total_deuda": 0
     },
     {
      "apto": 133,
      "mes_anterior": 85549,
      "deuda": 0,
-     "total_deuda": 85549
+     "total_deuda": 0
     },
     {
      "apto": 134,
-     "mes_anterior": 109572,
-     "deuda": 121437,
-     "total_deuda": 231009
+     "mes_anterior": 231009,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 135,
      "mes_anterior": 93893,
-     "deuda": 0,
+     "deuda": 93893,
      "total_deuda": 93893
     },
     {
      "apto": 136,
-     "mes_anterior": 84437,
-     "deuda": 487691,
+     "mes_anterior": 572128,
+     "deuda": 572128,
      "total_deuda": 572128
     },
     {
      "apto": 137,
      "mes_anterior": 64616,
      "deuda": 0,
-     "total_deuda": 64616
+     "total_deuda": 0
     },
     {
      "apto": 141,
-     "mes_anterior": 69120,
-     "deuda": 256030,
-     "total_deuda": 325150
+     "mes_anterior": 325150,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 142,
      "mes_anterior": 96031,
      "deuda": 0,
-     "total_deuda": 96031
+     "total_deuda": 0
     },
     {
      "apto": 143,
      "mes_anterior": 101002,
-     "deuda": 0,
+     "deuda": 101002,
      "total_deuda": 101002
     },
     {
      "apto": 144,
      "mes_anterior": 109601,
      "deuda": 0,
-     "total_deuda": 109601
+     "total_deuda": 0
     },
     {
      "apto": 145,
-     "mes_anterior": 91021,
-     "deuda": 88561,
+     "mes_anterior": 179582,
+     "deuda": 179582,
      "total_deuda": 179582
     },
     {
      "apto": 146,
      "mes_anterior": 96506,
-     "deuda": 0,
+     "deuda": 96506,
      "total_deuda": 96506
     },
     {
      "apto": 147,
      "mes_anterior": 64731,
      "deuda": 0,
-     "total_deuda": 64731
+     "total_deuda": 0
     },
     {
      "apto": 151,
      "mes_anterior": 62737,
      "deuda": 0,
-     "total_deuda": 62737
+     "total_deuda": 0
     },
     {
      "apto": 152,
-     "mes_anterior": 93557,
-     "deuda": 179355,
-     "total_deuda": 272912
+     "mes_anterior": 272912,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 153,
-     "mes_anterior": 83453,
-     "deuda": 233381,
+     "mes_anterior": 316834,
+     "deuda": 316834,
      "total_deuda": 316834
     },
     {
      "apto": 154,
      "mes_anterior": 100762,
      "deuda": 0,
-     "total_deuda": 100762
+     "total_deuda": 0
     },
     {
      "apto": 155,
-     "mes_anterior": 52240,
-     "deuda": 121433,
+     "mes_anterior": 173673,
+     "deuda": 173673,
      "total_deuda": 173673
     },
     {
      "apto": 156,
      "mes_anterior": 84448,
      "deuda": 0,
-     "total_deuda": 84448
+     "total_deuda": 0
     },
     {
      "apto": 157,
      "mes_anterior": 66881,
      "deuda": 0,
-     "total_deuda": 66881
+     "total_deuda": 0
     },
     {
      "apto": 161,
      "mes_anterior": 83751,
      "deuda": 0,
-     "total_deuda": 83751
+     "total_deuda": 0
     },
     {
      "apto": 162,
-     "mes_anterior": 91659,
-     "deuda": 93183,
-     "total_deuda": 184842
+     "mes_anterior": 184842,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 163,
      "mes_anterior": 96979,
-     "deuda": 0,
+     "deuda": 96979,
      "total_deuda": 96979
     },
     {
      "apto": 164,
      "mes_anterior": 86670,
-     "deuda": 0,
+     "deuda": 86670,
      "total_deuda": 86670
     },
     {
      "apto": 165,
-     "mes_anterior": 84091,
-     "deuda": 326906,
+     "mes_anterior": 410997,
+     "deuda": 410997,
      "total_deuda": 410997
     },
     {
      "apto": 166,
      "mes_anterior": 88221,
      "deuda": 0,
-     "total_deuda": 88221
+     "total_deuda": 0
     },
     {
      "apto": 167,
      "mes_anterior": 73182,
      "deuda": 0,
-     "total_deuda": 73182
+     "total_deuda": 0
     },
     {
      "apto": 171,
      "mes_anterior": 64766,
-     "deuda": 0,
+     "deuda": 64766,
      "total_deuda": 64766
     },
     {
      "apto": 172,
      "mes_anterior": 89769,
-     "deuda": 0,
+     "deuda": 89769,
      "total_deuda": 89769
     },
     {
      "apto": 173,
      "mes_anterior": 119789,
-     "deuda": 0,
+     "deuda": 119789,
      "total_deuda": 119789
     },
     {
      "apto": 174,
      "mes_anterior": 89721,
      "deuda": 0,
-     "total_deuda": 89721
+     "total_deuda": 0
     },
     {
      "apto": 175,
-     "mes_anterior": 76709,
+     "mes_anterior": -90,
      "deuda": 0,
-     "total_deuda": -90
+     "total_deuda": 0
     },
     {
      "apto": 176,
-     "mes_anterior": 86666,
-     "deuda": 174399,
+     "mes_anterior": 261065,
+     "deuda": 261065,
      "total_deuda": 261065
     },
     {
      "apto": 177,
      "mes_anterior": 67498,
-     "deuda": 0,
+     "deuda": 67498,
      "total_deuda": 67498
     },
     {
      "apto": 212,
      "mes_anterior": 119649,
      "deuda": 0,
-     "total_deuda": 119649
+     "total_deuda": 0
     },
     {
      "apto": 213,
      "mes_anterior": 106517,
      "deuda": 0,
-     "total_deuda": 106517
+     "total_deuda": 0
     },
     {
      "apto": 214,
-     "mes_anterior": 92201,
-     "deuda": 178602,
+     "mes_anterior": 270803,
+     "deuda": 270803,
      "total_deuda": 270803
     },
     {
      "apto": 215,
      "mes_anterior": 106270,
      "deuda": 0,
-     "total_deuda": 106270
+     "total_deuda": 0
     },
     {
      "apto": 221,
      "mes_anterior": 67888,
      "deuda": 0,
-     "total_deuda": 67888
+     "total_deuda": 0
     },
     {
      "apto": 222,
      "mes_anterior": 102146,
      "deuda": 0,
-     "total_deuda": 102146
+     "total_deuda": 0
     },
     {
      "apto": 223,
-     "mes_anterior": 83425,
-     "deuda": 242291,
+     "mes_anterior": 325716,
+     "deuda": 325716,
      "total_deuda": 325716
     },
     {
      "apto": 224,
      "mes_anterior": 113328,
      "deuda": 0,
-     "total_deuda": 113328
+     "total_deuda": 0
     },
     {
      "apto": 225,
      "mes_anterior": 104760,
-     "deuda": 0,
+     "deuda": 104760,
      "total_deuda": 104760
     },
     {
      "apto": 226,
      "mes_anterior": 93561,
      "deuda": 0,
-     "total_deuda": 93561
+     "total_deuda": 0
     },
     {
      "apto": 227,
      "mes_anterior": 68350,
      "deuda": 0,
-     "total_deuda": 68350
+     "total_deuda": 0
     },
     {
      "apto": 231,
      "mes_anterior": 74606,
      "deuda": 0,
-     "total_deuda": 74606
+     "total_deuda": 0
     },
     {
      "apto": 232,
      "mes_anterior": 106483,
      "deuda": 0,
-     "total_deuda": 106483
+     "total_deuda": 0
     },
     {
      "apto": 233,
      "mes_anterior": 87875,
-     "deuda": 0,
+     "deuda": 87875,
      "total_deuda": 87875
     },
     {
      "apto": 234,
-     "mes_anterior": 97711,
-     "deuda": 103634,
+     "mes_anterior": 201345,
+     "deuda": 201345,
      "total_deuda": 201345
     },
     {
      "apto": 235,
-     "mes_anterior": 84486,
-     "deuda": 80812,
-     "total_deuda": 165298
+     "mes_anterior": 165298,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 236,
      "mes_anterior": 85541,
      "deuda": 0,
-     "total_deuda": 85541
+     "total_deuda": 0
     },
     {
      "apto": 237,
      "mes_anterior": 59374,
-     "deuda": 0,
+     "deuda": 59374,
      "total_deuda": 59374
     },
     {
      "apto": 241,
      "mes_anterior": 65320,
      "deuda": 0,
-     "total_deuda": 65320
+     "total_deuda": 0
     },
     {
      "apto": 242,
-     "mes_anterior": 83911,
-     "deuda": 1254852,
+     "mes_anterior": 1338763,
+     "deuda": 1338763,
      "total_deuda": 1338763
     },
     {
      "apto": 243,
-     "mes_anterior": 111819,
-     "deuda": 13819,
-     "total_deuda": 125638
+     "mes_anterior": 125638,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 244,
      "mes_anterior": 87619,
      "deuda": 0,
-     "total_deuda": 87619
+     "total_deuda": 0
     },
     {
      "apto": 245,
-     "mes_anterior": 105976,
-     "deuda": 105225,
-     "total_deuda": 211201
+     "mes_anterior": 211201,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 246,
-     "mes_anterior": 75515,
-     "deuda": 96249,
-     "total_deuda": 171764
+     "mes_anterior": 171764,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 247,
      "mes_anterior": 59185,
      "deuda": 0,
-     "total_deuda": 59185
+     "total_deuda": 0
     },
     {
      "apto": 251,
-     "mes_anterior": 79309,
-     "deuda": 584774,
+     "mes_anterior": 664083,
+     "deuda": 664083,
      "total_deuda": 664083
     },
     {
      "apto": 252,
-     "mes_anterior": 98979,
-     "deuda": 96898,
-     "total_deuda": 195877
+     "mes_anterior": 195877,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 253,
      "mes_anterior": 109242,
      "deuda": 0,
-     "total_deuda": 109242
+     "total_deuda": 0
     },
     {
      "apto": 254,
      "mes_anterior": 100081,
      "deuda": 0,
-     "total_deuda": 100081
+     "total_deuda": 0
     },
     {
      "apto": 255,
      "mes_anterior": 90539,
      "deuda": 0,
-     "total_deuda": 90539
+     "total_deuda": 0
     },
     {
      "apto": 256,
-     "mes_anterior": 89476,
-     "deuda": 1272208,
+     "mes_anterior": 1361684,
+     "deuda": 1361684,
      "total_deuda": 1361684
     },
     {
      "apto": 257,
-     "mes_anterior": 63637,
-     "deuda": 86780,
+     "mes_anterior": 150417,
+     "deuda": 150417,
      "total_deuda": 150417
     },
     {
      "apto": 261,
      "mes_anterior": 73674,
      "deuda": 0,
-     "total_deuda": 73674
+     "total_deuda": 0
     },
     {
      "apto": 262,
-     "mes_anterior": 84434,
-     "deuda": 1810308,
+     "mes_anterior": 1894742,
+     "deuda": 1894742,
      "total_deuda": 1894742
     },
     {
      "apto": 263,
      "mes_anterior": 116226,
      "deuda": 0,
-     "total_deuda": 116226
+     "total_deuda": 0
     },
     {
      "apto": 264,
      "mes_anterior": 115309,
      "deuda": 0,
-     "total_deuda": 115309
+     "total_deuda": 0
     },
     {
      "apto": 265,
-     "mes_anterior": 102069,
-     "deuda": 118,
+     "mes_anterior": 102187,
+     "deuda": 102187,
      "total_deuda": 102187
     },
     {
      "apto": 266,
-     "mes_anterior": 91133,
-     "deuda": 600363,
-     "total_deuda": 691496
+     "mes_anterior": 691496,
+     "deuda": 191496,
+     "total_deuda": 191496
     },
     {
      "apto": 267,
-     "mes_anterior": 71276,
-     "deuda": 71686,
-     "total_deuda": 142962
+     "mes_anterior": 142962,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 271,
-     "mes_anterior": 73249,
-     "deuda": 148278,
-     "total_deuda": 221527
+     "mes_anterior": 221527,
+     "deuda": 73249,
+     "total_deuda": 73249
     },
     {
      "apto": 272,
-     "mes_anterior": 103414,
-     "deuda": 393798,
+     "mes_anterior": 497212,
+     "deuda": 497212,
      "total_deuda": 497212
     },
     {
      "apto": 273,
      "mes_anterior": 100345,
      "deuda": 0,
-     "total_deuda": 100345
+     "total_deuda": 0
     },
     {
      "apto": 274,
      "mes_anterior": 105136,
      "deuda": 0,
-     "total_deuda": 105136
+     "total_deuda": 0
     },
     {
      "apto": 275,
-     "mes_anterior": 87367,
-     "deuda": 86955,
-     "total_deuda": 174322
+     "mes_anterior": 174322,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 276,
      "mes_anterior": 92155,
      "deuda": 0,
-     "total_deuda": 92155
+     "total_deuda": 0
     },
     {
      "apto": 277,
-     "mes_anterior": 77205,
-     "deuda": 154494,
-     "total_deuda": 231699
+     "mes_anterior": 231699,
+     "deuda": 157896,
+     "total_deuda": 157896
     },
     {
      "apto": 312,
      "mes_anterior": 107829,
-     "deuda": 0,
+     "deuda": 107829,
      "total_deuda": 107829
     },
     {
      "apto": 313,
      "mes_anterior": 112284,
      "deuda": 0,
-     "total_deuda": 112284
+     "total_deuda": 0
     },
     {
      "apto": 314,
      "mes_anterior": 86385,
-     "deuda": 0,
+     "deuda": 86385,
      "total_deuda": 86385
     },
     {
      "apto": 315,
      "mes_anterior": 91466,
-     "deuda": 0,
+     "deuda": 91466,
      "total_deuda": 91466
     },
     {
      "apto": 321,
      "mes_anterior": 72020,
      "deuda": 0,
-     "total_deuda": 72020
+     "total_deuda": 0
     },
     {
      "apto": 322,
-     "mes_anterior": 114335,
-     "deuda": 683465,
-     "total_deuda": 797800
+     "mes_anterior": 797800,
+     "deuda": 558400,
+     "total_deuda": 558400
     },
     {
      "apto": 323,
-     "mes_anterior": 106395,
-     "deuda": 311762,
-     "total_deuda": 418157
+     "mes_anterior": 418157,
+     "deuda": 218157,
+     "total_deuda": 218157
     },
     {
      "apto": 324,
      "mes_anterior": 119679,
      "deuda": 0,
-     "total_deuda": 119679
+     "total_deuda": 0
     },
     {
      "apto": 325,
      "mes_anterior": 107589,
      "deuda": 0,
-     "total_deuda": 107589
+     "total_deuda": 0
     },
     {
      "apto": 326,
      "mes_anterior": 92163,
-     "deuda": 0,
+     "deuda": 92163,
      "total_deuda": 92163
     },
     {
      "apto": 327,
      "mes_anterior": 61108,
-     "deuda": 0,
+     "deuda": 61108,
      "total_deuda": 61108
     },
     {
      "apto": 331,
      "mes_anterior": 69770,
      "deuda": 0,
-     "total_deuda": 69770
+     "total_deuda": 0
     },
     {
      "apto": 332,
      "mes_anterior": 96862,
-     "deuda": 0,
+     "deuda": 96862,
      "total_deuda": 96862
     },
     {
      "apto": 333,
      "mes_anterior": 135770,
-     "deuda": 0,
+     "deuda": 135770,
      "total_deuda": 135770
     },
     {
      "apto": 334,
      "mes_anterior": 97124,
      "deuda": 0,
-     "total_deuda": 97124
+     "total_deuda": 0
     },
     {
      "apto": 335,
      "mes_anterior": 92355,
      "deuda": 0,
-     "total_deuda": 92355
+     "total_deuda": 0
     },
     {
      "apto": 336,
      "mes_anterior": 124130,
      "deuda": 0,
-     "total_deuda": 124130
+     "total_deuda": 0
     },
     {
      "apto": 337,
      "mes_anterior": 86068,
-     "deuda": 0,
+     "deuda": 86068,
      "total_deuda": 86068
     },
     {
      "apto": 341,
      "mes_anterior": 79983,
      "deuda": 0,
-     "total_deuda": 79983
+     "total_deuda": 0
     },
     {
      "apto": 342,
      "mes_anterior": 120554,
      "deuda": 0,
-     "total_deuda": 120554
+     "total_deuda": 0
     },
     {
      "apto": 343,
      "mes_anterior": 107141,
      "deuda": 0,
-     "total_deuda": 107141
+     "total_deuda": 0
     },
     {
      "apto": 344,
      "mes_anterior": 97797,
      "deuda": 0,
-     "total_deuda": 97797
+     "total_deuda": 0
     },
     {
      "apto": 345,
      "mes_anterior": 92041,
      "deuda": 0,
-     "total_deuda": 92041
+     "total_deuda": 0
     },
     {
      "apto": 346,
-     "mes_anterior": 95059,
-     "deuda": 93981,
-     "total_deuda": 189040
+     "mes_anterior": 189040,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 347,
-     "mes_anterior": 63491,
-     "deuda": 272939,
+     "mes_anterior": 336430,
+     "deuda": 336430,
      "total_deuda": 336430
     },
     {
      "apto": 351,
      "mes_anterior": 72034,
-     "deuda": 0,
+     "deuda": 72034,
      "total_deuda": 72034
     },
     {
      "apto": 352,
      "mes_anterior": 127869,
      "deuda": 0,
-     "total_deuda": 127869
+     "total_deuda": 0
     },
     {
      "apto": 353,
-     "mes_anterior": 97801,
-     "deuda": 193365,
+     "mes_anterior": 291166,
+     "deuda": 291166,
      "total_deuda": 291166
     },
     {
      "apto": 354,
      "mes_anterior": 110513,
      "deuda": 0,
-     "total_deuda": 110513
+     "total_deuda": 0
     },
     {
      "apto": 355,
      "mes_anterior": 79414,
-     "deuda": 0,
+     "deuda": 79414,
      "total_deuda": 79414
     },
     {
      "apto": 356,
      "mes_anterior": 82185,
      "deuda": 0,
-     "total_deuda": 82185
+     "total_deuda": 0
     },
     {
      "apto": 357,
-     "mes_anterior": 80852,
-     "deuda": 145434,
+     "mes_anterior": 226286,
+     "deuda": 226286,
      "total_deuda": 226286
     },
     {
      "apto": 361,
-     "mes_anterior": 72191,
-     "deuda": 143955,
+     "mes_anterior": 216146,
+     "deuda": 216146,
      "total_deuda": 216146
     },
     {
      "apto": 362,
      "mes_anterior": 100713,
-     "deuda": 0,
+     "deuda": 100713,
      "total_deuda": 100713
     },
     {
      "apto": 363,
      "mes_anterior": 105974,
      "deuda": 0,
-     "total_deuda": 105974
+     "total_deuda": 0
     },
     {
      "apto": 364,
      "mes_anterior": 102747,
      "deuda": 0,
-     "total_deuda": 102747
+     "total_deuda": 0
     },
     {
      "apto": 365,
      "mes_anterior": 94089,
-     "deuda": 0,
+     "deuda": 94089,
      "total_deuda": 94089
     },
     {
      "apto": 366,
      "mes_anterior": 93227,
      "deuda": 0,
-     "total_deuda": 93227
+     "total_deuda": 0
     },
     {
      "apto": 367,
-     "mes_anterior": 87385,
-     "deuda": 1188709,
+     "mes_anterior": 1276094,
+     "deuda": 1276094,
      "total_deuda": 1276094
     },
     {
      "apto": 371,
      "mes_anterior": 62852,
-     "deuda": 0,
+     "deuda": 62852,
      "total_deuda": 62852
     },
     {
      "apto": 372,
      "mes_anterior": 122694,
      "deuda": 0,
-     "total_deuda": 122694
+     "total_deuda": 0
     },
     {
      "apto": 373,
      "mes_anterior": 114578,
      "deuda": 0,
-     "total_deuda": 114578
+     "total_deuda": 0
     },
     {
      "apto": 374,
-     "mes_anterior": 97194,
-     "deuda": 1841272,
+     "mes_anterior": 2025764,
+     "deuda": 2025764,
      "total_deuda": 2025764
     },
     {
      "apto": 375,
-     "mes_anterior": 102836,
-     "deuda": 191267,
-     "total_deuda": 294103
+     "mes_anterior": 294103,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 376,
-     "mes_anterior": 92606,
-     "deuda": 99556,
+     "mes_anterior": 192162,
+     "deuda": 192162,
      "total_deuda": 192162
     },
     {
      "apto": 377,
      "mes_anterior": 75251,
      "deuda": 0,
-     "total_deuda": 75251
+     "total_deuda": 0
     },
     {
      "apto": 412,
-     "mes_anterior": 120377,
-     "deuda": 493646,
-     "total_deuda": 614023
+     "mes_anterior": 614023,
+     "deuda": 480714,
+     "total_deuda": 480714
     },
     {
      "apto": 413,
      "mes_anterior": 123372,
      "deuda": 0,
-     "total_deuda": 123372
+     "total_deuda": 0
     },
     {
      "apto": 414,
-     "mes_anterior": 68589,
-     "deuda": 68856,
-     "total_deuda": 137445
+     "mes_anterior": 137445,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 415,
      "mes_anterior": 89548,
      "deuda": 0,
-     "total_deuda": 89548
+     "total_deuda": 0
     },
     {
      "apto": 421,
      "mes_anterior": 82345,
-     "deuda": 0,
+     "deuda": 82345,
      "total_deuda": 82345
     },
     {
      "apto": 422,
      "mes_anterior": 88632,
      "deuda": 0,
-     "total_deuda": 88632
+     "total_deuda": 0
     },
     {
      "apto": 423,
      "mes_anterior": 99190,
      "deuda": 0,
-     "total_deuda": 99190
+     "total_deuda": 0
     },
     {
      "apto": 424,
-     "mes_anterior": 109864,
-     "deuda": 114318,
+     "mes_anterior": 224182,
+     "deuda": 224182,
      "total_deuda": 224182
     },
     {
      "apto": 425,
      "mes_anterior": 85814,
      "deuda": 0,
-     "total_deuda": 85814
+     "total_deuda": 0
     },
     {
      "apto": 426,
      "mes_anterior": 105389,
      "deuda": 0,
-     "total_deuda": 105389
+     "total_deuda": 0
     },
     {
      "apto": 427,
-     "mes_anterior": 83164,
-     "deuda": 77237,
-     "total_deuda": 160401
+     "mes_anterior": 160401,
+     "deuda": 83164,
+     "total_deuda": 83164
     },
     {
      "apto": 431,
      "mes_anterior": 83352,
      "deuda": 0,
-     "total_deuda": 83352
+     "total_deuda": 0
     },
     {
      "apto": 432,
      "mes_anterior": 96475,
-     "deuda": 0,
+     "deuda": 96475,
      "total_deuda": 96475
     },
     {
      "apto": 433,
-     "mes_anterior": 114466,
-     "deuda": 103020,
-     "total_deuda": 217486
+     "mes_anterior": 217486,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 434,
      "mes_anterior": 108225,
      "deuda": 0,
-     "total_deuda": 108225
+     "total_deuda": 0
     },
     {
      "apto": 435,
      "mes_anterior": 86953,
-     "deuda": 0,
+     "deuda": 86953,
      "total_deuda": 86953
     },
     {
      "apto": 436,
      "mes_anterior": 110017,
      "deuda": 0,
-     "total_deuda": 110017
+     "total_deuda": 0
     },
     {
      "apto": 437,
      "mes_anterior": 76722,
      "deuda": 0,
-     "total_deuda": 76722
+     "total_deuda": 0
     },
     {
      "apto": 441,
-     "mes_anterior": 79776,
-     "deuda": 429357,
+     "mes_anterior": 509133,
+     "deuda": 509133,
      "total_deuda": 509133
     },
     {
      "apto": 442,
      "mes_anterior": 91581,
-     "deuda": 0,
+     "deuda": 91581,
      "total_deuda": 91581
     },
     {
      "apto": 443,
-     "mes_anterior": 94355,
-     "deuda": 1282080,
-     "total_deuda": 1376435
+     "mes_anterior": 1376435,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 444,
      "mes_anterior": 94045,
-     "deuda": 0,
+     "deuda": 94045,
      "total_deuda": 94045
     },
     {
      "apto": 445,
-     "mes_anterior": 95529,
-     "deuda": 92202,
-     "total_deuda": 187731
+     "mes_anterior": 187731,
+     "deuda": 0,
+     "total_deuda": 0
     },
+    null,
     {
      "apto": 446,
-     "mes_anterior": 96951,
-     "deuda": 185695,
+     "mes_anterior": 282646,
+     "deuda": 282646,
      "total_deuda": 282646
     },
     {
      "apto": 447,
      "mes_anterior": 71791,
      "deuda": 0,
-     "total_deuda": 71791
+     "total_deuda": 0
     },
     {
      "apto": 451,
      "mes_anterior": 76631,
-     "deuda": 0,
+     "deuda": 76631,
      "total_deuda": 76631
     },
     {
      "apto": 452,
-     "mes_anterior": 117010,
-     "deuda": 219472,
+     "mes_anterior": 336482,
+     "deuda": 336482,
      "total_deuda": 336482
     },
     {
      "apto": 453,
-     "mes_anterior": 97556,
-     "deuda": 974309,
-     "total_deuda": 1071865
+     "mes_anterior": 1071865,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 454,
-     "mes_anterior": 93918,
-     "deuda": 85730,
+     "mes_anterior": 179648,
+     "deuda": 179648,
      "total_deuda": 179648
     },
     {
      "apto": 455,
-     "mes_anterior": 87688,
-     "deuda": 342610,
-     "total_deuda": 430298
+     "mes_anterior": 430298,
+     "deuda": 344785,
+     "total_deuda": 344785
     },
     {
      "apto": 456,
      "mes_anterior": 86353,
      "deuda": 0,
-     "total_deuda": 86353
+     "total_deuda": 0
     },
     {
      "apto": 457,
      "mes_anterior": 73475,
-     "deuda": 0,
+     "deuda": 73475,
      "total_deuda": 73475
     },
     {
      "apto": 461,
      "mes_anterior": 73504,
-     "deuda": 0,
+     "deuda": 73504,
      "total_deuda": 73504
     },
     {
      "apto": 462,
      "mes_anterior": 123440,
      "deuda": 0,
-     "total_deuda": 123440
+     "total_deuda": 0
     },
     {
      "apto": 463,
-     "mes_anterior": 109442,
-     "deuda": 309456,
+     "mes_anterior": 418898,
+     "deuda": 418898,
      "total_deuda": 418898
     },
     {
      "apto": 464,
      "mes_anterior": 91670,
-     "deuda": 0,
+     "deuda": 91670,
      "total_deuda": 91670
     },
     {
      "apto": 465,
-     "mes_anterior": 81720,
-     "deuda": 399387,
+     "mes_anterior": 481107,
+     "deuda": 481107,
      "total_deuda": 481107
     },
     {
      "apto": 466,
      "mes_anterior": 90677,
      "deuda": 0,
-     "total_deuda": 90677
+     "total_deuda": 0
     },
     {
      "apto": 467,
-     "mes_anterior": 75238,
-     "deuda": 436632,
-     "total_deuda": 511870
+     "mes_anterior": 511870,
+     "deuda": 411870,
+     "total_deuda": 411870
     },
     {
      "apto": 471,
-     "mes_anterior": 74802,
-     "deuda": 1728073,
+     "mes_anterior": 1802875,
+     "deuda": 1802875,
      "total_deuda": 1802875
     },
     {
      "apto": 472,
      "mes_anterior": 102608,
      "deuda": 0,
-     "total_deuda": 102608
+     "total_deuda": 0
     },
     {
      "apto": 473,
      "mes_anterior": 95078,
-     "deuda": 0,
+     "deuda": 95078,
      "total_deuda": 95078
     },
     {
      "apto": 474,
-     "mes_anterior": 111408,
-     "deuda": 112492,
-     "total_deuda": 223900
+     "mes_anterior": 223900,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 475,
-     "mes_anterior": 113711,
-     "deuda": 585146,
+     "mes_anterior": 698857,
+     "deuda": 698857,
      "total_deuda": 698857
     },
     {
      "apto": 476,
      "mes_anterior": 93755,
      "deuda": 0,
-     "total_deuda": 93755
+     "total_deuda": 0
     },
     {
      "apto": 477,
      "mes_anterior": 76192,
      "deuda": 0,
-     "total_deuda": 76192
+     "total_deuda": 0
     },
     {
      "apto": 512,
-     "mes_anterior": 95169,
-     "deuda": 97918,
-     "total_deuda": 193087
+     "mes_anterior": 193087,
+     "deuda": 95169,
+     "total_deuda": 95169
     },
     {
      "apto": 513,
-     "mes_anterior": 112142,
-     "deuda": 782787,
+     "mes_anterior": 894929,
+     "deuda": 894929,
      "total_deuda": 894929
     },
     {
      "apto": 514,
      "mes_anterior": 72618,
      "deuda": 0,
-     "total_deuda": 72618
+     "total_deuda": 0
     },
     {
      "apto": 515,
      "mes_anterior": 83820,
      "deuda": 0,
-     "total_deuda": 83820
+     "total_deuda": 0
     },
     {
      "apto": 521,
      "mes_anterior": 68128,
      "deuda": 0,
-     "total_deuda": 68128
+     "total_deuda": 0
     },
     {
      "apto": 522,
-     "mes_anterior": 101135,
-     "deuda": 363786,
+     "mes_anterior": 464921,
+     "deuda": 464921,
      "total_deuda": 464921
     },
     {
      "apto": 523,
      "mes_anterior": 115717,
      "deuda": 0,
-     "total_deuda": 115717
+     "total_deuda": 0
     },
     {
      "apto": 524,
-     "mes_anterior": 105605,
-     "deuda": 109993,
+     "mes_anterior": 215598,
+     "deuda": 215598,
      "total_deuda": 215598
     },
     {
      "apto": 525,
-     "mes_anterior": 79419,
-     "deuda": 384288,
-     "total_deuda": 463707
+     "mes_anterior": 463707,
+     "deuda": 363707,
+     "total_deuda": 363707
     },
     {
      "apto": 526,
-     "mes_anterior": 76012,
-     "deuda": 1286849,
+     "mes_anterior": 1362861,
+     "deuda": 1362861,
      "total_deuda": 1362861
     },
     {
      "apto": 527,
      "mes_anterior": 96772,
      "deuda": 0,
-     "total_deuda": 96772
+     "total_deuda": 0
     },
     {
      "apto": 531,
      "mes_anterior": 78406,
      "deuda": 0,
-     "total_deuda": 78406
+     "total_deuda": 0
     },
     {
      "apto": 532,
-     "mes_anterior": 91917,
-     "deuda": 91132,
-     "total_deuda": 183049
+     "mes_anterior": 183049,
+     "deuda": 83049,
+     "total_deuda": 83049
     },
     {
      "apto": 533,
      "mes_anterior": 99703,
      "deuda": 0,
-     "total_deuda": 99703
+     "total_deuda": 0
     },
     {
      "apto": 534,
-     "mes_anterior": 93695,
-     "deuda": 901791,
+     "mes_anterior": 995486,
+     "deuda": 995486,
      "total_deuda": 995486
     },
     {
      "apto": 535,
-     "mes_anterior": 100970,
-     "deuda": 89349,
+     "mes_anterior": 190319,
+     "deuda": 190319,
      "total_deuda": 190319
     },
     {
      "apto": 536,
      "mes_anterior": 85394,
      "deuda": 0,
-     "total_deuda": 85394
+     "total_deuda": 0
     },
     {
      "apto": 537,
      "mes_anterior": 69448,
      "deuda": 0,
-     "total_deuda": 69448
+     "total_deuda": 0
     },
     {
      "apto": 541,
      "mes_anterior": 66497,
      "deuda": 0,
-     "total_deuda": 66497
+     "total_deuda": 0
     },
     {
      "apto": 542,
      "mes_anterior": 105238,
-     "deuda": 0,
+     "deuda": 105238,
      "total_deuda": 105238
     },
     {
      "apto": 543,
-     "mes_anterior": 90825,
-     "deuda": 266744,
+     "mes_anterior": 357569,
+     "deuda": 357569,
      "total_deuda": 357569
     },
     {
      "apto": 544,
      "mes_anterior": 90632,
      "deuda": 0,
-     "total_deuda": 90632
+     "total_deuda": 0
     },
     {
      "apto": 545,
      "mes_anterior": 77867,
      "deuda": 0,
-     "total_deuda": 77867
+     "total_deuda": 0
     },
     {
      "apto": 546,
-     "mes_anterior": 96055,
-     "deuda": 179221,
+     "mes_anterior": 275276,
+     "deuda": 275276,
      "total_deuda": 275276
     },
     {
      "apto": 547,
-     "mes_anterior": 76090,
-     "deuda": 380478,
+     "mes_anterior": 456568,
+     "deuda": 456568,
      "total_deuda": 456568
     },
     {
      "apto": 551,
      "mes_anterior": 70243,
      "deuda": 0,
-     "total_deuda": 70243
+     "total_deuda": 0
     },
     {
      "apto": 552,
-     "mes_anterior": 114820,
-     "deuda": 583392,
+     "mes_anterior": 698212,
+     "deuda": 698212,
      "total_deuda": 698212
     },
     {
      "apto": 553,
      "mes_anterior": 97695,
-     "deuda": 0,
+     "deuda": 97695,
      "total_deuda": 97695
     },
     {
      "apto": 554,
-     "mes_anterior": 97107,
+     "mes_anterior": 194470,
      "deuda": 97363,
-     "total_deuda": 194470
+     "total_deuda": 97363
     },
     {
      "apto": 555,
      "mes_anterior": 93777,
      "deuda": 0,
-     "total_deuda": 93777
+     "total_deuda": 0
     },
     {
      "apto": 556,
      "mes_anterior": 84519,
      "deuda": 0,
-     "total_deuda": 84519
+     "total_deuda": 0
     },
     {
      "apto": 557,
-     "mes_anterior": 64486,
-     "deuda": 240668,
+     "mes_anterior": 305154,
+     "deuda": 305154,
      "total_deuda": 305154
     },
     {
      "apto": 561,
-     "mes_anterior": 67698,
-     "deuda": 192083,
-     "total_deuda": 259781
+     "mes_anterior": 259781,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 562,
      "mes_anterior": 95992,
      "deuda": 0,
-     "total_deuda": 95992
+     "total_deuda": 0
     },
     {
      "apto": 563,
      "mes_anterior": 85444,
-     "deuda": 0,
+     "deuda": 85444,
      "total_deuda": 85444
     },
     {
      "apto": 564,
-     "mes_anterior": 111859,
-     "deuda": 109051,
-     "total_deuda": 220910
+     "mes_anterior": 220910,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 565,
      "mes_anterior": 78776,
      "deuda": 0,
-     "total_deuda": 78776
+     "total_deuda": 0
     },
     {
      "apto": 566,
      "mes_anterior": 96520,
      "deuda": 0,
-     "total_deuda": 96520
+     "total_deuda": 0
     },
     {
      "apto": 567,
      "mes_anterior": 64025,
      "deuda": 0,
-     "total_deuda": 64025
+     "total_deuda": 0
     },
     {
      "apto": 571,
-     "mes_anterior": 78041,
+     "mes_anterior": 76336,
      "deuda": 0,
-     "total_deuda": 76336
+     "total_deuda": 0
     },
     {
      "apto": 572,
      "mes_anterior": 92892,
      "deuda": 0,
-     "total_deuda": 92892
+     "total_deuda": 0
     },
     {
      "apto": 573,
      "mes_anterior": 89866,
      "deuda": 0,
-     "total_deuda": 89866
+     "total_deuda": 0
     },
     {
      "apto": 574,
      "mes_anterior": 103344,
      "deuda": 0,
-     "total_deuda": 103344
+     "total_deuda": 0
     },
     {
      "apto": 575,
-     "mes_anterior": 87812,
-     "deuda": 667828,
+     "mes_anterior": 755640,
+     "deuda": 755640,
      "total_deuda": 755640
     },
     {
      "apto": 576,
      "mes_anterior": 83093,
      "deuda": 0,
-     "total_deuda": 83093
+     "total_deuda": 0
     },
     {
      "apto": 577,
-     "mes_anterior": 68726,
-     "deuda": 59722,
+     "mes_anterior": 128448,
+     "deuda": 128448,
      "total_deuda": 128448
     },
     {
      "apto": 613,
      "mes_anterior": 86888,
      "deuda": 0,
-     "total_deuda": 86888
+     "total_deuda": 0
     },
     {
      "apto": 614,
-     "mes_anterior": 76104,
-     "deuda": 86872,
-     "total_deuda": 162976
+     "mes_anterior": 162976,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 615,
      "mes_anterior": 80459,
      "deuda": 0,
-     "total_deuda": 80459
+     "total_deuda": 0
     },
     {
      "apto": 621,
      "mes_anterior": 69976,
      "deuda": 0,
-     "total_deuda": 69976
+     "total_deuda": 0
     },
     {
      "apto": 624,
      "mes_anterior": 106039,
-     "deuda": 0,
+     "deuda": 106039,
      "total_deuda": 106039
     },
     {
      "apto": 626,
-     "mes_anterior": 79482,
-     "deuda": 107767,
+     "mes_anterior": 187249,
+     "deuda": 187249,
      "total_deuda": 187249
     },
     {
      "apto": 631,
      "mes_anterior": 65948,
-     "deuda": 0,
+     "deuda": 65948,
      "total_deuda": 65948
     },
     {
      "apto": 633,
-     "mes_anterior": 85488,
-     "deuda": 90920,
-     "total_deuda": 176408
+     "mes_anterior": 176408,
+     "deuda": 85488,
+     "total_deuda": 85488
     },
     {
      "apto": 634,
-     "mes_anterior": 100977,
-     "deuda": 101088,
-     "total_deuda": 202065
+     "mes_anterior": 202065,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 635,
      "mes_anterior": 82996,
      "deuda": 0,
-     "total_deuda": 82996
+     "total_deuda": 0
     },
     {
      "apto": 636,
      "mes_anterior": 76047,
      "deuda": 0,
-     "total_deuda": 76047
+     "total_deuda": 0
     },
     {
      "apto": 637,
-     "mes_anterior": 68793,
-     "deuda": 68708,
-     "total_deuda": 137501
+     "mes_anterior": 137501,
+     "deuda": 0,
+     "total_deuda": 0
     },
     {
      "apto": 642,
      "mes_anterior": 95906,
      "deuda": 0,
-     "total_deuda": 95906
+     "total_deuda": 0
     },
     {
      "apto": 643,
-     "mes_anterior": 85148,
-     "deuda": 102159,
+     "mes_anterior": 187307,
+     "deuda": 187307,
      "total_deuda": 187307
     },
     {
      "apto": 645,
      "mes_anterior": 78873,
      "deuda": 0,
-     "total_deuda": 78873
+     "total_deuda": 0
     },
     {
      "apto": 647,
      "mes_anterior": 60892,
      "deuda": 0,
-     "total_deuda": 60892
+     "total_deuda": 0
     },
     {
      "apto": 651,
      "mes_anterior": 65225,
      "deuda": 0,
-     "total_deuda": 65225
+     "total_deuda": 0
     },
     {
      "apto": 652,
      "mes_anterior": 85721,
-     "deuda": 0,
+     "deuda": 85721,
      "total_deuda": 85721
     },
     {
      "apto": 653,
      "mes_anterior": 99444,
      "deuda": 0,
-     "total_deuda": 99444
+     "total_deuda": 0
     },
     {
      "apto": 657,
      "mes_anterior": 75056,
      "deuda": 0,
-     "total_deuda": 75056
+     "total_deuda": 0
     },
     {
      "apto": 661,
-     "mes_anterior": 58840,
-     "deuda": 5907,
+     "mes_anterior": 64747,
+     "deuda": 64747,
      "total_deuda": 64747
     },
     {
      "apto": 662,
      "mes_anterior": 107614,
      "deuda": 0,
-     "total_deuda": 107614
+     "total_deuda": 0
     },
     {
      "apto": 663,
      "mes_anterior": 103323,
      "deuda": 0,
-     "total_deuda": 103323
+     "total_deuda": 0
     },
     {
      "apto": 664,
      "mes_anterior": 105153,
-     "deuda": 0,
+     "deuda": 105153,
      "total_deuda": 105153
     },
     {
      "apto": 665,
      "mes_anterior": 84426,
      "deuda": 0,
-     "total_deuda": 84426
+     "total_deuda": 0
     },
     {
      "apto": 666,
-     "mes_anterior": 74250,
-     "deuda": 382418,
+     "mes_anterior": 456668,
+     "deuda": 456668,
      "total_deuda": 456668
     },
     {
      "apto": 667,
      "mes_anterior": 78194,
-     "deuda": 0,
+     "deuda": 78194,
      "total_deuda": 78194
     },
     {
      "apto": 671,
      "mes_anterior": 63791,
      "deuda": 0,
-     "total_deuda": 63791
+     "total_deuda": 0
     },
     {
      "apto": 672,
      "mes_anterior": 99869,
      "deuda": 0,
-     "total_deuda": 99869
+     "total_deuda": 0
     },
     {
      "apto": 673,
      "mes_anterior": 87213,
      "deuda": 0,
-     "total_deuda": 87213
+     "total_deuda": 0
     },
     {
      "apto": 674,
      "mes_anterior": 86282,
-     "deuda": 0,
+     "deuda": 86282,
      "total_deuda": 86282
     },
     {
      "apto": 676,
      "mes_anterior": 87431,
      "deuda": 0,
-     "total_deuda": 87431
+     "total_deuda": 0
     },
     {
      "apto": 677,
-     "mes_anterior": 75461,
-     "deuda": 325878,
+     "mes_anterior": 401339,
+     "deuda": 401339,
      "total_deuda": 401339
     },
     {
      "apto": "INMOBILIARIA",
-     "mes_anterior": 1063176,
-     "deuda": 4160987,
-     "total_deuda": 5224163
+     "mes_anterior": 5224163,
+     "deuda": 2535829,
+     "total_deuda": 2535829
     },
     {
      "apto": "TOTALES",
-     "mes_anterior": 24582093,
-     "deuda": 35439015,
-     "total_deuda": 60029902
+     "mes_anterior": 60029902,
+     "deuda": 37042170,
+     "total_deuda": 37042170
     }
    ]
